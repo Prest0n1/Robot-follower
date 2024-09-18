@@ -1,0 +1,4 @@
+Operates the robot during competitions. (Or in our case, just for testing)
+Ensures that all team members follow safety protocols.
+Works on the drivetrain, chassis, and any mechanical systems (e.g., arms, lifts, grippers).
+Ensures that the robot meets size, weight, and functional requirements.
